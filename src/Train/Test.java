@@ -35,5 +35,7 @@ public class Test {
 		int hehe=ts.TinhChuvi();
 		System.out.print(hehe);
 	}
+	
+	// Cần test gì nữa không nhỉ?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
 
 }
