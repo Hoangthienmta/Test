@@ -37,5 +37,7 @@ public class Test {
 	}
 	
 	// Cần test gì nữa không nhỉ?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
+	// Ủa git là thế này thôi đó hả  
+	// Thì ra cũng đơn giản mà nhỉ?
 
 }
